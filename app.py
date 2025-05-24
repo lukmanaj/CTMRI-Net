@@ -35,7 +35,7 @@ def load_model():
     device = "cuda" if torch.cuda.is_available() else "cpu"
     model = MultiModalDenseNet(num_classes=2).to(device)
     model_path = hf_hub_download(
-        repo_id="your-username/brain-tumor-multimodal",
+        repo_id="lukmanaj/brain-tumor-multimodal",
         filename="multimodal_brain_tumor_model.pth"
     )
     model.load_state_dict(torch.load(model_path, map_location=device))
