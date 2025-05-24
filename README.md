@@ -1,8 +1,5 @@
-# CTMRI-Net
-For my brain Tumour Classifier
-# ## Brain Tumor Multimodal Classifier App
+## Brain Tumor Multimodal Classifier App
 
-# %% [markdown]
 # # 📘 GitHub Repository: README.md
 
 # This repository contains a Streamlit application and supporting code for a multimodal deep learning model that classifies brain tumor presence based on CT and/or MRI scans.
