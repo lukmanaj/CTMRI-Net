@@ -69,7 +69,7 @@ model_path = hf_hub_download(
 
 ## 📚 Citation
 ```
-Aliyu, L. (2025). Brain Tumor Classification using Multimodal Deep Learning (ArewaDS Capstone Project).
+Aliyu, L. (2025). Brain Tumor Classification using Multimodal Deep Learning.
 ```
 
 ## 🤝 Acknowledgement
