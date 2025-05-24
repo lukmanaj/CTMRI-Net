@@ -6,7 +6,6 @@ This repository contains a Streamlit application and supporting code for a multi
 - Multimodal classifier that supports CT, MRI, or both inputs.
 - Dual DenseNet201 architecture (feature-level fusion).
 - Trained using the PyTorch deep learning framework.
-- Integrated with Weights & Biases for experiment tracking.
 
 ## 🚀 Live Demo
 You can run the app locally using:
