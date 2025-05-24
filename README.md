@@ -13,6 +13,7 @@ You can run the app locally using:
 ```bash
 streamlit run app.py
 ```
+or you can try out the app on streamlit cloud [here](https://ctmri-net.streamlit.app/)
 
 ## 📁 Project Structure
 ```plaintext
