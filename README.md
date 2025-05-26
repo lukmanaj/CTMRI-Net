@@ -43,7 +43,7 @@ The model was trained using the public Kaggle dataset:
 
 ## 📦 Model Weights
 The pretrained model is hosted on Hugging Face:
-📍 [Hugging Face Repo](https://huggingface.co/your-username/brain-tumor-multimodal)
+📍 [Hugging Face Repo](https://huggingface.co/lukmanaj/brain-tumor-multimodal)
 
 ```python
 from huggingface_hub import hf_hub_download
