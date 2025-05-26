@@ -71,9 +71,6 @@ model_path = hf_hub_download(
 Aliyu, L. (2025). Brain Tumor Classification using Multimodal Deep Learning.
 ```
 
-## 🤝 Acknowledgement
-- [Masoud Nickparvar (Kaggle dataset)](https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-multimodal-image-ct-and-mri)
-
 ---
 
 Feel free to contribute or open an issue for improvements or questions.
