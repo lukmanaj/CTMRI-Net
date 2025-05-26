@@ -24,7 +24,7 @@ brain-tumor-multimodal-app/
 ├── README.md              # This documentation
 ├── inference_examples/    # Example CT and MRI inputs (optional)
 └── notebooks/
-    └── training_notebook.ipynb   # Kaggle-style notebook with training pipeline
+    └── training-notebook.ipynb   # Kaggle-style notebook with training pipeline
 ```
 
 ## 🧾 Dataset
