@@ -73,4 +73,4 @@ Aliyu, L. (2025). Brain Tumor Classification using Multimodal Deep Learning.
 
 ---
 
-Feel free to contribute or open an issue for improvements or questions.
+Feel free to contribute or open an issue for improvements or questions
